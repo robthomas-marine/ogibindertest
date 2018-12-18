@@ -1,0 +1,6 @@
+notation,prefLabel,definition,sameAs
+daily_max,Daily maximum,The largest value recorded on a date or any continuous period of 24 hours as specified elsewhere in the metadata.,http://vocab.nerc.ac.uk/collection/S07/current/S0700022/
+daily_min,Daily minimum,The smallest value recorded on a date or any continuous period of 24 hours as specified elsewhere in the metadata.,http://vocab.nerc.ac.uk/collection/S07/current/S0700024/
+daily_mean,Daily mean,A value representing the average over one day. The method for calculating daily means varies depending on the type of observations being made.,http://vocab.nerc.ac.uk/collection/S07/current/S0700023/
+std,Standard deviation,The square root of the average of the squares of deviations about the mean of a set of data.,http://vocab.nerc.ac.uk/collection/S07/current/S0700007/
+avail,Availability,The completeness of data received from the sensors deployed on the platform based on the expected data resolution time interval.,not applicable
